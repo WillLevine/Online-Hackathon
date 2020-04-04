@@ -1018,24 +1018,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Will\\.nuget\\packages\\": {},
+    "C:\\Users\\Danny\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
+      "projectUniqueName": "C:\\Docs not for backup\\github\\Online-Hackathon\\AppWithBtns\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
       "projectName": "ExampleHackApp.iOS",
-      "projectPath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp.iOS\\obj\\",
+      "projectPath": "C:\\Docs not for backup\\github\\Online-Hackathon\\AppWithBtns\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Docs not for backup\\github\\Online-Hackathon\\AppWithBtns\\ExampleHackApp\\ExampleHackApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1049,8 +1049,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
-              "projectPath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
+            "C:\\Docs not for backup\\github\\Online-Hackathon\\AppWithBtns\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+              "projectPath": "C:\\Docs not for backup\\github\\Online-Hackathon\\AppWithBtns\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
             }
           }
         }
