@@ -983,11 +983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
       "projectName": "The app.iOS",
-      "projectPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
+      "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
       "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj": {
-              "projectPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj"
+            "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj": {
+              "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj"
             }
           }
         }

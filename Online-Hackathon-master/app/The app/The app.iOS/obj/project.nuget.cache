@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qtW3AZ5MQWPJmLpKcaAST97VJ9JkQ347Q/AzNm8RYrvvLp1r9vua/RtmBUTGMA/u7b9Oc6CWXJ7KZvCCNQXLMg==",
+  "dgSpecHash": "4XYs3OJqC1/aqqMCnxbl2puBbjx2b2jf1IaLIVUZEEkAntJ5ykD3Xc5FL9sd6AGYn9OT+/fBNptfShi5XfYQ2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.iOS\\The app.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512"

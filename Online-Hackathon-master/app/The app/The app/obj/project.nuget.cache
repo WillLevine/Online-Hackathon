@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNAJ5cT85t2+JWmdESX2ewy/kEVYf9EaAh+656sTRb7MBj7y5VCXziX5kug7ASH22bNjtjDRa6GAEQ8VYIMTzA==",
+  "dgSpecHash": "FZ0f6PYWe8MV5zNxkj7NFjb1JBu0u23SlOb8lYPtLxAN63VI69xNvjUYv5WTRc3sz6ceaJhls3kLCvEHBLO40Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jenni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jenni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
