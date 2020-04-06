@@ -2093,11 +2093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
       "projectName": "The app.Android",
-      "projectPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
+      "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
       "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.Android\\obj\\",
+      "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2118,8 +2118,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj": {
-              "projectPath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj"
+            "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj": {
+              "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app\\The app.csproj"
             }
           }
         }

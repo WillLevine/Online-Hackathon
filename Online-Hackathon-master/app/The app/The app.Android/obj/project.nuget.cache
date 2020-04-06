@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0t0gtfeABQ1mXe2q/jWr3ju5Yl0VA6rBuRM1e0rOOu+Fa3fNMhFMk7g/QyyXq0Y3yF5203WsKjtp0s2UbAx5Vw==",
+  "dgSpecHash": "ZoFbglHps04r6oEuqLNATiby8g75qIGGYnGop3wn9nfymQt4QpO7QuQcudBKjjmisL2qmyMCUGJ0+xwGdB5hVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenni\\Documents\\Code\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\Online-Hackathon-master\\app\\The app\\The app.Android\\The app.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
