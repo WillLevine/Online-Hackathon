@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ExampleHackApp.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout VerticalOptions="Start">
+            <Label Text="Hack Quarantine App" HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold,Italic" Margin="30">
+                <Label.FontFamily>Sans-Serif</Label.FontFamily>
+            </Label>
+        </StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <!-- middle controls -->
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Padding="0" VerticalOptions="End">
+            <Button Clicked="GiveHelp_Handle_Clicked" FontSize="15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="GiveHelp" WidthRequest="2" HeightRequest="90" Text="Give Help" BackgroundColor="white" BorderColor="black" BorderWidth="2"></Button>
+            <Button Clicked="GetHelp_Handle_Clicked" FontSize="15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="GetHelp" WidthRequest="2" HeightRequest="90" Text="Get Help" BackgroundColor="white" BorderColor="black" BorderWidth="2"></Button>
+            <Button Clicked="MyMessages_Handle_Clicked" FontSize="15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="Messages" WidthRequest="2" HeightRequest="90" Text="Messages" BackgroundColor="white" BorderColor="black" BorderWidth="2"></Button>
+            <Button Clicked="MyCard_Handle_Clicked" FontSize="15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="Card" WidthRequest="2" HeightRequest="90" Text="My Card" BackgroundColor="white" BorderColor="black" BorderWidth="2"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
