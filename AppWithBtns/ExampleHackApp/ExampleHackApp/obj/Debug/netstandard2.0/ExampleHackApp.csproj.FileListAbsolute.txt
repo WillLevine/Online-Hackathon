@@ -26,3 +26,4 @@ C:\Docs not for backup\github\Online-Hackathon\AppWithBtns\ExampleHackApp\Exampl
 C:\Docs not for backup\github\Online-Hackathon\AppWithBtns\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.dll
 C:\Docs not for backup\github\Online-Hackathon\AppWithBtns\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ref\ExampleHackApp.dll
 C:\Docs not for backup\github\Online-Hackathon\AppWithBtns\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.pdb
+C:\Docs not for backup\github\Online-Hackathon\AppWithBtns\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\MyCard.xaml.g.cs
