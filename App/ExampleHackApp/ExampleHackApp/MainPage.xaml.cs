@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace ExampleHackApp
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
@@ -18,6 +19,7 @@ namespace ExampleHackApp
             InitializeComponent();
         }
 
+        
         void GiveHelp_Handle_Clicked(object sender, System.EventArgs e)
         {
             Navigation.PushAsync(new Page1());
@@ -36,6 +38,12 @@ namespace ExampleHackApp
         void MyCard_Handle_Clicked(object sender, System.EventArgs e)
         {
             Navigation.PushAsync(new Page4());
+        }
+
+        protected override void OnCreate(Bundle savedInstanceState)
+        {
+        
+        
         }
     }
 }

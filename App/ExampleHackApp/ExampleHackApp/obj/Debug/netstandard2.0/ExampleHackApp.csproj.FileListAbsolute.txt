@@ -34,3 +34,19 @@ C:\Docs not for backup\github\Online-Hackathon\App\ExampleHackApp\ExampleHackApp
 C:\Docs not for backup\github\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.dll
 C:\Docs not for backup\github\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ref\ExampleHackApp.dll
 C:\Docs not for backup\github\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.pdb
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\bin\Debug\netstandard2.0\ExampleHackApp.deps.json
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\bin\Debug\netstandard2.0\ExampleHackApp.dll
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\bin\Debug\netstandard2.0\ref\ExampleHackApp.dll
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\bin\Debug\netstandard2.0\ExampleHackApp.pdb
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.csprojAssemblyReference.cache
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.AssemblyInfoInputs.cache
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.AssemblyInfo.cs
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.dll
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ref\ExampleHackApp.dll
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.pdb

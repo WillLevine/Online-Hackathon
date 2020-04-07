@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HGwZNAXB2b7q9BJlHklgZ1poQR2rayU4qjVlDR1AxDzoz+3nVP727gwGbTafETEmaq5ZLyPaSERIN6jw6kNfbA==",
+  "dgSpecHash": "xwmnSIgqAWcXSGRirkICY/dJebzNCaTJptZnSM/7L5zPL18VQGVCkRxOV6vB+E1bsXKQz8v1GqK3MgtCKNwz8g==",
   "success": true,
-  "projectFilePath": "C:\\Docs not for backup\\github\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Danny\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
   ],
   "logs": []
 }
