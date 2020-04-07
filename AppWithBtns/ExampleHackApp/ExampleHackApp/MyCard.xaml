@@ -4,6 +4,13 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="ExampleHackApp.MainPage">
+             x:Class="ExampleHackApp.MyCard">
+
+    <StackLayout VerticalOptions="Start">
+        <Label Text="My Card Page" HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold,Italic" Margin="30">
+            <Label.FontFamily>Sans-Serif</Label.FontFamily>
+        </Label>
+    </StackLayout>
+
 
 </ContentPage>

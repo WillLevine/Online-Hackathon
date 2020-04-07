@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ExampleHackApp.MyCard.xaml", "MyCard.xaml", typeof(global::ExampleHackApp.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ExampleHackApp.MyCard.xaml", "MyCard.xaml", typeof(global::ExampleHackApp.MyCard))]
 
 namespace ExampleHackApp {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MyCard.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    public partial class MyCard : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MyCard));
         }
     }
 }
