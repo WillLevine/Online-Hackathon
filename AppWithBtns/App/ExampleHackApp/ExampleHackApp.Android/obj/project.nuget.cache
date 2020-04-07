@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TOOvuiUDMUNP8VRdLkexIdyZxHGDwKtbc9RItR2J/8sw+3WwthokFfRsCHXdKh3v4bXL4tVMUFPb+aizGmmx3w==",
+  "dgSpecHash": "1feOIWAVZX912gpfOqXPdddQCzTndzcBQYLFWjgi/qJ+WSW6w9+7XKLZJOJ7Xi2aJZCj8Yf1Yy+7SV3hstg80A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+  "projectFilePath": "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Will\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

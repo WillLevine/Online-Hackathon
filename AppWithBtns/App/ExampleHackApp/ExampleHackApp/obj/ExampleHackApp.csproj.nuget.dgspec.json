@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {}
+    "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+    "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectUniqueName": "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "projectName": "ExampleHackApp",
-        "projectPath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectPath": "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Will\\source\\repos\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
+        "outputPath": "D:\\Documents\\AppWithBtns\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -55,10 +55,6 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.4.0.991265, )"
-            },
-            "Xamarin.GooglePlayServices.Maps": {
-              "target": "Package",
-              "version": "[42.1021.1, )"
             }
           },
           "imports": [
