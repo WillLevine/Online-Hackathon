@@ -40,10 +40,5 @@ namespace ExampleHackApp
             Navigation.PushAsync(new Page4());
         }
 
-        protected override void OnCreate(Bundle savedInstanceState)
-        {
-        
-        
-        }
     }
 }

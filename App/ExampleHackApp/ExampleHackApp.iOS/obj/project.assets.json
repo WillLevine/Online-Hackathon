@@ -1069,8 +1069,7 @@
     "Xamarin.iOS,Version=v1.0": [
       "ExampleHackApp >= 1.0.0",
       "Xamarin.Essentials >= 1.5.2",
-      "Xamarin.Forms >= 4.5.0.530",
-      "Xamarin.Forms.Maps >= 4.5.0.530"
+      "Xamarin.Forms >= 4.5.0.530"
     ]
   },
   "packageFolders": {
@@ -1120,10 +1119,6 @@
             "version": "[1.5.2, )"
           },
           "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[4.5.0.530, )"
-          },
-          "Xamarin.Forms.Maps": {
             "target": "Package",
             "version": "[4.5.0.530, )"
           }
