@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Xamarin.Forms;
+using Xamarin.Forms.Maps;
 using Xamarin.Forms.Xaml;
 
 namespace ExampleHackApp
@@ -15,6 +16,7 @@ namespace ExampleHackApp
         public Page1()
         {
             InitializeComponent();
+            Position position = new Position(36.9628066, -122.0194722);
         }
     }
 }
