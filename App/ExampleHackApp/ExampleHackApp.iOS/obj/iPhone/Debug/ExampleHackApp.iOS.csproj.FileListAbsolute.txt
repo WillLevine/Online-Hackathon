@@ -57,3 +57,5 @@ C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackA
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.iOS\obj\iPhone\Debug\ExampleHackApp.iOS.csproj.CopyComplete
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.iOS\obj\iPhone\Debug\ExampleHackApp.iOS.exe
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.iOS\obj\iPhone\Debug\ExampleHackApp.iOS.pdb
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.dll
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.iOS.dll

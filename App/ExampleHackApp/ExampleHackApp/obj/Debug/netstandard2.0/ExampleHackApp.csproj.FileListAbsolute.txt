@@ -50,3 +50,5 @@ C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackA
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.dll
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ref\ExampleHackApp.dll
 C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.pdb
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Documents\GitHub\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\XamlC.stamp

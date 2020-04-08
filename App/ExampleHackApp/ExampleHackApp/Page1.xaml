@@ -2,13 +2,24 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:map="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              mc:Ignorable="d"
              x:Class="ExampleHackApp.Page1"
              Title="Give Help">
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-            <Label Text="This is the 'Give Help' page!"/>
-        </StackLayout>
+        <Grid>
+            <map:Map MapType="Street" HasZoomEnabled="True">
+                <map:Map.ItemTemplate>
+                    <DataTemplate>
+                        <map:Pin Position="{Binding Position}"
+                             Address="{Binding Address}"
+                             Label="{Binding Label}" />
+                    </DataTemplate>
+                </map:Map.ItemTemplate>
+
+            </map:Map>
+        </Grid>
+
+
     </ContentPage.Content>
 </ContentPage>
