@@ -823,7 +823,7 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Base.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/_._": {}
+          "build/MonoAndroid90/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Basement/71.1620.0": {
@@ -842,7 +842,7 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Basement.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/_._": {}
+          "build/MonoAndroid90/Xamarin.GooglePlayServices.Basement.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Maps/71.1610.0": {
@@ -862,7 +862,7 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/_._": {}
+          "build/MonoAndroid90/Xamarin.GooglePlayServices.Maps.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Tasks/71.1601.0": {
@@ -881,7 +881,7 @@
           "lib/monoandroid90/Xamarin.GooglePlayServices.Tasks.dll": {}
         },
         "build": {
-          "build/MonoAndroid90/_._": {}
+          "build/MonoAndroid90/Xamarin.GooglePlayServices.Tasks.targets": {}
         }
       },
       "ExampleHackApp/1.0.0": {
@@ -2135,7 +2135,8 @@
     "MonoAndroid,Version=v9.0": [
       "ExampleHackApp >= 1.0.0",
       "Xamarin.Essentials >= 1.5.2",
-      "Xamarin.Forms >= 4.5.0.530"
+      "Xamarin.Forms >= 4.5.0.530",
+      "Xamarin.Forms.Maps >= 4.5.0.530"
     ]
   },
   "packageFolders": {
@@ -2185,6 +2186,10 @@
             "version": "[1.5.2, )"
           },
           "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[4.5.0.530, )"
+          },
+          "Xamarin.Forms.Maps": {
             "target": "Package",
             "version": "[4.5.0.530, )"
           }
