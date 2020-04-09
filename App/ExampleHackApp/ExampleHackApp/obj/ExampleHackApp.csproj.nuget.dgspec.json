@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {}
+    "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+    "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectUniqueName": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "projectName": "ExampleHackApp",
-        "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
-        "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
+        "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
