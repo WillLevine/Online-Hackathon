@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4iLAhUqQ3gg0T4oKd7+BP2MSwpQwHyONlpUkXIFO4Fx1EhjIk0fpWGrGia3g1x6K8MxjHnTC0e8aMjByCzXHvg==",
+  "dgSpecHash": "UHOwAGeSHQucle8zXRhVurSMU+5f0bvXzU27PyRAI1ceRPEyNP943/NPA+kRLyp23UsOUscfJsbpi29JFfn3UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
+  "projectFilePath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
   ],
   "logs": []
 }
