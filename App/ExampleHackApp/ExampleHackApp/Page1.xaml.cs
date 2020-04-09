@@ -16,7 +16,8 @@ namespace ExampleHackApp
         public Page1()
         {
             InitializeComponent();
-            Position position = new Position(36.9628066, -122.0194722);
+
+
         }
     }
 }
