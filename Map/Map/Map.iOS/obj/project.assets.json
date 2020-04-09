@@ -1074,24 +1074,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jenni\\.nuget\\packages\\": {},
+    "C:\\Users\\Danny\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
+      "projectUniqueName": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
       "projectName": "Map.iOS",
-      "projectPath": "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
-      "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map.iOS\\obj\\",
+      "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map.iOS\\Map.iOS.csproj",
+      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1105,8 +1105,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map\\Map.csproj": {
-              "projectPath": "C:\\Users\\jenni\\source\\repos\\Map\\Map\\Map\\Map.csproj"
+            "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map\\Map.csproj": {
+              "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\Map\\Map\\Map\\Map.csproj"
             }
           }
         }
