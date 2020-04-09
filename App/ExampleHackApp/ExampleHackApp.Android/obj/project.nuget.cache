@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9bIqlOunSA+DL+N2/43kvqPh5/srB5/cwyxKbUljLJE6unHtTSXTUznLR38jNydqzBkpmBp9o5MCQPhluYjnQ==",
+  "dgSpecHash": "NsJSZGuutyvKNzZwB6rCyYaZysAj8I/Qc6DlgMAXz1NjA9Jb0i+oV/wK5R0P9zyxeSdYSqEDwWdT9FYBeo09Gg==",
   "success": true,
-  "projectFilePath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
@@ -41,14 +41,14 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.0\\xamarin.googleplayservices.base.71.1610.0.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.0\\xamarin.googleplayservices.basement.71.1620.0.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.googleplayservices.maps\\71.1610.0\\xamarin.googleplayservices.maps.71.1610.0.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.googleplayservices.tasks\\71.1601.0\\xamarin.googleplayservices.tasks.71.1601.0.nupkg.sha512"
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.0\\xamarin.googleplayservices.base.71.1610.0.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.0\\xamarin.googleplayservices.basement.71.1620.0.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.googleplayservices.maps\\71.1610.0\\xamarin.googleplayservices.maps.71.1610.0.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.googleplayservices.tasks\\71.1601.0\\xamarin.googleplayservices.tasks.71.1601.0.nupkg.sha512"
   ],
   "logs": []
 }
