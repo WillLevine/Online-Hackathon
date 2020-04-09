@@ -8,14 +8,36 @@
              Title="Get Help">
     <ContentPage.Content>
         <Grid>
-            <map:Map MapType="Street" HasZoomEnabled="True">
-                <map:Map.ItemTemplate>
-                    <DataTemplate>
-                        <map:Pin Position="{Binding Position}"
-                             Address="{Binding Address}"
-                             Label="{Binding Label}" />
-                    </DataTemplate>
-                </map:Map.ItemTemplate>
+            <map:Map MapType="Street" HasZoomEnabled="True" x:Name="map" IsShowingUser="True">
+                <x:Arguments>
+                    <map:MapSpan>
+                        <x:Arguments>
+                            <map:Position>
+                                <x:Arguments>
+                                    <x:Double>53.426838</x:Double>
+                                    <x:Double>-2.101694</x:Double>
+                                </x:Arguments>
+                            </map:Position>
+                            <x:Double>0.01</x:Double>
+                            <x:Double>0.01</x:Double>
+                        </x:Arguments>
+                    </map:MapSpan>
+                </x:Arguments>
+
+                <map:Map.Pins>
+                    <map:Pin Label="Random House"
+                       Address="Needs food"
+                       Type="Place">
+                        <map:Pin.Position>
+                            <map:Position>
+                                <x:Arguments>
+                                    <x:Double>53.426838</x:Double>
+                                    <x:Double>-2.101694</x:Double>
+                                </x:Arguments>
+                            </map:Position>
+                        </map:Pin.Position>
+                    </map:Pin>
+                </map:Map.Pins>
 
             </map:Map>
         </Grid>

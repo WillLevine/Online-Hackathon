@@ -8,8 +8,36 @@
              Title="Give Help">
     <ContentPage.Content>
         <Grid>
-            <map:Map MapType="Street" HasZoomEnabled="True" IsShowingUser="True">
-  
+            <map:Map MapType="Street" HasZoomEnabled="True" IsShowingUser="True" x:Name="map">
+                <x:Arguments>
+                    <map:MapSpan>
+                        <x:Arguments>
+                            <map:Position>
+                                <x:Arguments>
+                                    <x:Double>53.425805</x:Double>
+                                    <x:Double>-2.101579</x:Double>
+                                </x:Arguments>
+                            </map:Position>
+                            <x:Double>0.01</x:Double>
+                            <x:Double>0.01</x:Double>
+                        </x:Arguments>
+                    </map:MapSpan>
+                </x:Arguments>
+
+                <map:Map.Pins>
+                    <map:Pin Label="Start Point Cafe"
+                       Address="Has food available"
+                       Type="Place">
+                        <map:Pin.Position>
+                            <map:Position>
+                                <x:Arguments>
+                                    <x:Double>53.425805</x:Double>
+                                    <x:Double>-2.101579</x:Double>
+                                </x:Arguments>
+                            </map:Position>
+                        </map:Pin.Position>
+                    </map:Pin>
+                </map:Map.Pins>
 
             </map:Map>
         </Grid>
