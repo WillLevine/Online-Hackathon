@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {}
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+        "projectUniqueName": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
         "projectName": "ExampleHackApp.Android",
-        "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+        "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
         "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-        "outputPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
+        "outputPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
-                "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
+              "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+                "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectUniqueName": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "projectName": "ExampleHackApp",
-        "projectPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-        "outputPath": "C:\\Docs not for backup\\github clone\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
+        "outputPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
