@@ -34,13 +34,13 @@ namespace ExampleHackApp
 
         void OnSaveButtonClicked(object sender, EventArgs e)
         {
-            File.WriteAllText(_fileName, fname.text);
-            File.WriteAllText(_fileName, lname.text);
-            File.WriteAllText(_fileName, address1.text);
-            File.WriteAllText(_fileName, pcode.text);
-            File.WriteAllText(_fileName, telnum.text);
-            File.WriteAllText(_fileName, email.text);
-            File.WriteAllText(_fileName, altcont.text);
+            File.WriteAllText(_fileName, fname.Text);
+            File.WriteAllText(_fileName, lname.Text);
+            File.WriteAllText(_fileName, address1.Text);
+            File.WriteAllText(_fileName, pcode.Text);
+            File.WriteAllText(_fileName, telnum.Text);
+            File.WriteAllText(_fileName, email.Text);
+            File.WriteAllText(_fileName, altcont.Text);
         }
 
         void OnDeleteButtonClicked(object sender, EventArgs e)

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "TEc2ryGdqV7vqpkJ7FbysjrB66KiavinpfIZaRSapz2Nj8nxvw9dPIPIGR18qQO4fs9OZnO31JTOeIAPWGCqmA==",
+  "dgSpecHash": "UA39+ipB9dTlNxzb9YXJL3b9d6G/0dUICKjILB9gz/uT3TXcOBVUdxHwWecF+E+nNeZOnwQY9PewOMAIgHW2GQ==",
   "success": false,
-  "projectFilePath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Danny\\.nuget\\packages\\ajaxcontroltoolkit\\19.1.0\\ajaxcontroltoolkit.19.1.0.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
-    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
+    "C:\\Users\\jenni\\.nuget\\packages\\ajaxcontroltoolkit\\19.1.0\\ajaxcontroltoolkit.19.1.0.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
   ],
   "logs": [
     {
