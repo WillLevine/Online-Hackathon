@@ -6,27 +6,40 @@
              mc:Ignorable="d"
              x:Class="ExampleHackApp.Page4"
              Title="My Card">
-    <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-            <Label Text="This is the 'My Card' Page!"/>
-        </StackLayout>
-    </ContentPage.Content>
     <StackLayout Margin="10,35,10,10">
-        <Label Text="Notes"
+        <Label Text="Please enter your details, any you would not to be available please leave the box balnk."
                HorizontalOptions="Center"
                FontAttributes="Bold" />
-        <Editor x:Name="editor"
-                Placeholder="Enter your note"
+        <Editor x:Name="fname"
+                Placeholder="Enter your fist name,"
+                HeightRequest="100" />
+        <Editor x:Name="lname"
+                Placeholder="Enter your last name,"
+                HeightRequest="100" />
+        <Editor x:Name="address1"
+                Placeholder="Enter your address,"
+                HeightRequest="100" />
+        <Editor x:Name="pcode"
+                Placeholder="Enter your Postcode,"
+                HeightRequest="100" />
+        <Editor x:Name="telnum"
+                Placeholder="Enter your mobile number,"
+                HeightRequest="100" />
+        <Editor x:Name="email"
+                Placeholder="Enter your email,"
+                HeightRequest="100" />
+        <Editor x:Name="altcont"
+                Placeholder="Please enter any aternative methods of contact,"
                 HeightRequest="100" />
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            <Button Text="Save"
+            <Button Text="Save information"
                     Clicked="OnSaveButtonClicked" />
             <Button Grid.Column="1"
-                    Text="Delete"
+                    Text="Clear all information"
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
     </StackLayout>
