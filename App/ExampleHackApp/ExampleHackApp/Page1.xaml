@@ -14,8 +14,8 @@
                         <x:Arguments>
                             <map:Position>
                                 <x:Arguments>
-                                    <x:Double>53.425805</x:Double>
-                                    <x:Double>-2.101579</x:Double>
+                                    <x:Double>37.42199833333</x:Double>
+                                    <x:Double>-122.084</x:Double>
                                 </x:Arguments>
                             </map:Position>
                             <x:Double>0.01</x:Double>
@@ -31,8 +31,8 @@
                         <map:Pin.Position>
                             <map:Position>
                                 <x:Arguments>
-                                    <x:Double>53.425805</x:Double>
-                                    <x:Double>-2.101579</x:Double>
+                                    <x:Double>37.4219983333</x:Double>
+                                    <x:Double>-122.084</x:Double>
                                 </x:Arguments>
                             </map:Position>
                         </map:Pin.Position>
