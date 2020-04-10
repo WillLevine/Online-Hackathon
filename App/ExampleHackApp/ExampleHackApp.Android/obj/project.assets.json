@@ -2,6 +2,30 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v9.0": {
+      "AjaxControlToolkit/19.1.0": {
+        "type": "package"
+      },
+      "DocumentFormat.OpenXml/2.10.1": {
+        "type": "package",
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.IO.Packaging.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {}
+        }
+      },
       "Xamarin.Android.Arch.Core.Common/1.1.1.3": {
         "type": "package",
         "dependencies": {
@@ -888,6 +912,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AjaxControlToolkit": "19.1.0",
+          "DocumentFormat.OpenXml": "2.10.1",
           "Xamarin.Essentials": "1.5.2",
           "Xamarin.Forms": "4.5.0.530",
           "Xamarin.Forms.Maps": "4.5.0.530"
@@ -902,6 +928,70 @@
     }
   },
   "libraries": {
+    "AjaxControlToolkit/19.1.0": {
+      "sha512": "ITBkAidFQl7Y/qMDwj5jskdcpmtV4e2Y370hhLhWMRufrZmcYS/DjllYWix/PJTk4KzudePlv1/YF/LeGsUwjA==",
+      "type": "package",
+      "path": "ajaxcontroltoolkit/19.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Web.config.transform",
+        "ajaxcontroltoolkit.19.1.0.nupkg.sha512",
+        "ajaxcontroltoolkit.nuspec",
+        "lib/net40/AjaxControlToolkit.dll",
+        "readme.txt"
+      ]
+    },
+    "DocumentFormat.OpenXml/2.10.1": {
+      "sha512": "OJqoZ/qTgegiKQG0JANqXJWXOpyNj6cE1SyGqRyeT8B9OmUayT76YfwDzZfzgUczj9kaPhUrtgkuz5sCUqIxBg==",
+      "type": "package",
+      "path": "documentformat.openxml/2.10.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CodeSignSummary-e5c439c6-ea87-4566-a291-c8cbbcc4ef09.md",
+        "documentformat.openxml.2.10.1.nupkg.sha512",
+        "documentformat.openxml.nuspec",
+        "icon.png",
+        "lib/net35/DocumentFormat.OpenXml.dll",
+        "lib/net35/DocumentFormat.OpenXml.xml",
+        "lib/net40/DocumentFormat.OpenXml.dll",
+        "lib/net40/DocumentFormat.OpenXml.xml",
+        "lib/net46/DocumentFormat.OpenXml.dll",
+        "lib/net46/DocumentFormat.OpenXml.xml",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.dll",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.xml",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.xml"
+      ]
+    },
+    "System.IO.Packaging/4.7.0": {
+      "sha512": "9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "type": "package",
+      "path": "system.io.packaging/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net46/System.IO.Packaging.dll",
+        "lib/net46/System.IO.Packaging.xml",
+        "lib/netstandard1.3/System.IO.Packaging.dll",
+        "lib/netstandard1.3/System.IO.Packaging.xml",
+        "lib/netstandard2.0/System.IO.Packaging.dll",
+        "lib/netstandard2.0/System.IO.Packaging.xml",
+        "ref/net46/System.IO.Packaging.dll",
+        "ref/net46/System.IO.Packaging.xml",
+        "ref/netstandard1.3/System.IO.Packaging.dll",
+        "ref/netstandard1.3/System.IO.Packaging.xml",
+        "ref/netstandard2.0/System.IO.Packaging.dll",
+        "ref/netstandard2.0/System.IO.Packaging.xml",
+        "system.io.packaging.4.7.0.nupkg.sha512",
+        "system.io.packaging.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "Xamarin.Android.Arch.Core.Common/1.1.1.3": {
       "sha512": "ss+hnEoFeyxLgHk3TrCBqTMkK6ZJqhq382AONzdVGg7cyVibvBMWPX2Xp5byB8tvRJOMRIWZnqyqgpYQIagkZA==",
       "type": "package",
@@ -2140,24 +2230,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jenni\\.nuget\\packages\\": {},
+    "C:\\Users\\Danny\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+      "projectUniqueName": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
       "projectName": "ExampleHackApp.Android",
-      "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
-      "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
+      "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2171,8 +2261,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
-              "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
+            "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+              "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
             }
           }
         }
@@ -2196,5 +2286,16 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AjaxControlToolkit 19.1.0 is not compatible with monoandroid90 (MonoAndroid,Version=v9.0). Package AjaxControlToolkit 19.1.0 supports: net40 (.NETFramework,Version=v4.0)",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
 }

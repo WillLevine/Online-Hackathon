@@ -3,8 +3,10 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "ExampleHackApp.Android.dll" comes first in this list. */
 		"ExampleHackApp.Android.dll",
+		"DocumentFormat.OpenXml.dll",
 		"ExampleHackApp.dll",
 		"FormsViewGroup.dll",
+		"System.IO.Packaging.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

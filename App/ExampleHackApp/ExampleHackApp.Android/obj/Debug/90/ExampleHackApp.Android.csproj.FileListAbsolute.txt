@@ -2581,3 +2581,5 @@ C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\Ex
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.Android\obj\Debug\90\android\assets\DocumentFormat.OpenXml.dll
+C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp.Android\obj\Debug\90\android\assets\System.IO.Packaging.dll

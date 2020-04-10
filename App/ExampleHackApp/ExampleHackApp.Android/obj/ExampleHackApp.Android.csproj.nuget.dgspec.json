@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {}
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+        "projectUniqueName": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
         "projectName": "ExampleHackApp.Android",
-        "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
-        "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
+        "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\ExampleHackApp.Android.csproj",
+        "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
-                "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
+              "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+                "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj"
               }
             }
           }
@@ -58,20 +58,20 @@
         }
       }
     },
-    "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
+    "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "projectUniqueName": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
         "projectName": "ExampleHackApp",
-        "projectPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
-        "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
+        "projectPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\ExampleHackApp.csproj",
+        "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -96,6 +96,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "AjaxControlToolkit": {
+              "target": "Package",
+              "version": "[19.1.0, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

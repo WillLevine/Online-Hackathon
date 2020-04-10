@@ -81,10 +81,9 @@ C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\Ex
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page2.xaml.g.cs
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page3.xaml.g.cs
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\Page4.xaml.g.cs
-C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.csproj.CoreCompileInputs.cache
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.AssemblyInfoInputs.cache
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.AssemblyInfo.cs
-C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.dll
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ref\ExampleHackApp.dll
 C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.pdb
+C:\Docs not for backup\github clone\hack2\Online-Hackathon\App\ExampleHackApp\ExampleHackApp\obj\Debug\netstandard2.0\ExampleHackApp.csproj.CoreCompileInputs.cache

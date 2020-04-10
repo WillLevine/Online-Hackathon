@@ -1,12 +1,52 @@
 {
   "version": 2,
-  "dgSpecHash": "xwmnSIgqAWcXSGRirkICY/dJebzNCaTJptZnSM/7L5zPL18VQGVCkRxOV6vB+E1bsXKQz8v1GqK3MgtCKNwz8g==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\jenni\\Documents\\GitHub\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
+  "dgSpecHash": "TEc2ryGdqV7vqpkJ7FbysjrB66KiavinpfIZaRSapz2Nj8nxvw9dPIPIGR18qQO4fs9OZnO31JTOeIAPWGCqmA==",
+  "success": false,
+  "projectFilePath": "C:\\Docs not for backup\\github clone\\hack2\\Online-Hackathon\\App\\ExampleHackApp\\ExampleHackApp.iOS\\ExampleHackApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
-    "C:\\Users\\jenni\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
+    "C:\\Users\\Danny\\.nuget\\packages\\ajaxcontroltoolkit\\19.1.0\\ajaxcontroltoolkit.19.1.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.530\\xamarin.forms.maps.4.5.0.530.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AjaxControlToolkit 19.1.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Package AjaxControlToolkit 19.1.0 supports: net40 (.NETFramework,Version=v4.0)",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AjaxControlToolkit 19.1.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Package AjaxControlToolkit 19.1.0 supports: net40 (.NETFramework,Version=v4.0)",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AjaxControlToolkit 19.1.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Package AjaxControlToolkit 19.1.0 supports: net40 (.NETFramework,Version=v4.0)",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AjaxControlToolkit 19.1.0 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Package AjaxControlToolkit 19.1.0 supports: net40 (.NETFramework,Version=v4.0)",
+      "libraryId": "AjaxControlToolkit",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
